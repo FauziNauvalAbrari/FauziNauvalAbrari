@@ -17,5 +17,7 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](http
   <a href="https://php.org/"><img align="left" alt="PHP" title="PHP" width="50px" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" /></a>
   <a href="https://mysql.org/"><img align="left" alt="MySQl" title="MySQL" width="30px" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" /></a>
   <a href="https://mysql.org/"><img align="left" alt="MySQl" title="MySQL" width="30px" src="https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg" /></a>
+  <a href="https://mysql.org/"><img align="left" alt="MySQl" title="MySQL" width="30px" src="https://cdn.worldvectorlogo.com/logos/codeigniter-2.svg" /></a>
+  <a href="https://mysql.org/"><img align="left" alt="MySQl" title="MySQL" width="30px" src="https://cdn.worldvectorlogo.com/logos/java-4.svg" /></a>
   <br>
   <br>
