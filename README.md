@@ -1,5 +1,5 @@
 # 💫 About Me:
-Perkenalkan nama saya Muhammad Fauzi Nauval.<br><br>Saya seorang Mahasiswa di STMIK Profesional Makassar<br><br>Sedang Menempuh Program Pendidikan pada Jurusan Sistem Informasi<br><br>Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun Linkedinku ya.
+Perkenalkan nama saya Muhammad Fauzi Nauval.<br><br>Saya seorang Mahasiswa di STMIK Profesional Makassar<br><br>Sedang Menempuh Program Pendidikan pada Jurusan Sistem Informasi
 
 
 ## 🌐 Socials:
