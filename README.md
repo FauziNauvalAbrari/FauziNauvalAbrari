@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Muhammad Fauzi Nauval and I'm a Tech Enthusiast from Makassar, Indonesia. 🇮🇩</h2>
+<h2 align="left">Hi 👋! My name is Muhammad Fauzi Nauval and I'm a Tech Enthusiast from Makassar, Indonesia.</h2>
 
 ###
 
