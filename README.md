@@ -1,5 +1,5 @@
 <!-- HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Muhammad%20Fauzi%20Nauval&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Foreman%20IT%20Geology%20%C2%B7%20ERP%20%26%20Backend%20Developer&descSize=18&descAlignY=60" alt="header" />
+<img width="100%" src="./header.svg" alt="Muhammad Fauzi Nauval, Foreman IT Geology, ERP and Backend Developer" />
 
 <div align="center">
 
@@ -174,6 +174,3 @@ REST API rekomendasi resep dari bahan yang tersedia. Deploy di App Engine, Cloud
 <div align="center">
   <img src="https://raw.githubusercontent.com/FauziNauvalAbrari/FauziNauvalAbrari/output/snake.svg" alt="Snake animation" />
 </div>
-
-<!-- FOOTER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" alt="footer" />
