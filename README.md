@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="./header.svg" alt="Muhammad Fauzi Nauval — IT Geology, Backend Engineering and ERP Systems" width="100%" />
 </p>
