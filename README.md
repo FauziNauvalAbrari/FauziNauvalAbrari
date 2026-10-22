@@ -4,6 +4,10 @@
 </p>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/FauziNauvalAbrari/FauziNauvalAbrari/output/snake.svg" alt="GitHub contribution snake animation" width="100%" />
+</p>
+
+<p align="center">
   <a href="https://fauzidev.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
@@ -23,10 +27,6 @@
   <img src="https://img.shields.io/badge/Domain-Geology%20%26%20Mining-2563EB?style=flat-square" alt="Geology and Mining" />
   <img src="https://img.shields.io/badge/Cloud-Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud" />
   <img src="https://img.shields.io/badge/GPA-3.82%2F4.00-D97706?style=flat-square" alt="GPA" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=IT+Geology+%7C+Backend+Engineering;ERP+Customization+%7C+Workflow+Automation;Building+Practical+Systems+for+Real+Operations" alt="Typing animation" />
 </p>
 
 ---
@@ -51,8 +51,11 @@ FOCUS
   <tr>
     <td width="50%" valign="top">
       <h3>Jejak Kebaikan</h3>
-      <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+      <p>
+        <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+        <img src="https://img.shields.io/badge/REST_API-2563EB?style=flat-square" alt="REST API" />
+      </p>
       <p>
         Backend for a donation platform, including campaign management,
         transaction history, audit trails, input validation, and idempotency handling.
@@ -61,9 +64,11 @@ FOCUS
     </td>
     <td width="50%" valign="top">
       <h3>Fleet Document Module</h3>
-      <img src="https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white" alt="Odoo" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud" />
+      <p>
+        <img src="https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white" alt="Odoo" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud" />
+      </p>
       <p>
         Automated fleet document workflows with Google Drive API (OAuth2),
         scheduled expiry alerts, and retry handling.
@@ -74,8 +79,10 @@ FOCUS
   <tr>
     <td width="50%" valign="top">
       <h3>SIMIG — Geology Inventory</h3>
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+      <p>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+      </p>
       <p>
         Internal geology inventory and logistics system with multiple
         operational modules and role-based access control.
@@ -84,9 +91,11 @@ FOCUS
     </td>
     <td width="50%" valign="top">
       <h3>Geo Task Tracker</h3>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+      </p>
       <p>
         Task tracking for daily work, handover, deadline extension approvals,
         and performance scoring.
@@ -97,8 +106,10 @@ FOCUS
   <tr>
     <td width="50%" valign="top">
       <h3>GenZ — Internal Operations Platform</h3>
-      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+      <p>
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+      </p>
       <p>
         Internal multi-module platform for centralized data, inventory,
         attendance, and activity monitoring.
@@ -106,8 +117,10 @@ FOCUS
     </td>
     <td width="50%" valign="top">
       <h3>Fridge Recipe API</h3>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-      <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud" />
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+        <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud" />
+      </p>
       <p>
         Recipe recommendation API based on available ingredients,
         developed as a team capstone project using Google Cloud services.
@@ -120,17 +133,17 @@ FOCUS
 
 <p align="center">
   <strong>Backend Development</strong><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,laravel,php,py,fastapi" alt="Backend technologies" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,laravel,php,py,fastapi" alt="Node.js, NestJS, Express, Laravel, PHP, Python and FastAPI" />
 </p>
 
 <p align="center">
   <strong>Frontend Development</strong><br/>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,bootstrap" alt="Frontend technologies" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,bootstrap" alt="HTML, CSS, JavaScript, TypeScript, React, Vite and Bootstrap" />
 </p>
 
 <p align="center">
   <strong>Database, Cloud & Tools</strong><br/>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,gcp,git,github,postman,vscode,linux" alt="Database, cloud, and developer tools" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,gcp,git,github,postman,vscode,linux" alt="PostgreSQL, MySQL, Supabase, Google Cloud, Git, GitHub, Postman, VS Code and Linux" />
   <br/><br/>
   <img src="https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white" alt="Odoo" />
   <img src="https://img.shields.io/badge/PostGIS-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostGIS" />
@@ -189,16 +202,3 @@ FOCUS
 STMIK Profesional Makassar · 2022–2025  
 GPA: **3.82 / 4.00**
 
----
-
-<p align="center">
-  <strong>Open to relevant remote opportunities and relocation.</strong>
-  <br/><br/>
-  <a href="https://fauzidev.vercel.app">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/muhammad-fauzi-nauval">LinkedIn</a> ·
-  <a href="mailto:fauzinauval0706@gmail.com">Email</a>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/FauziNauvalAbrari/FauziNauvalAbrari/output/snake.svg" alt="GitHub contribution animation" />
-</p>
